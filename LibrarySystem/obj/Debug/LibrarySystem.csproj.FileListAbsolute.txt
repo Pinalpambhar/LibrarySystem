@@ -1,0 +1,374 @@
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll.config
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\LibrarySystem.pdb
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csc.exe
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csc.exe.config
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csc.rsp
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csi.exe
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csi.exe.config
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csi.rsp
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.AppContext.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Collections.Immutable.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Console.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.Compression.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.FileSystem.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Net.Http.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Net.Sockets.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.ValueTuple.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.XPath.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\vbc.exe
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\vbc.exe.config
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\vbc.rsp
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\VBCSCompiler.exe
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\roslyn\VBCSCompiler.exe.config
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\BouncyCastle.Crypto.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Google.Protobuf.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.Streams.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\K4os.Hash.xxHash.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\MySql.Data.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Common.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Interfaces.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.MySql.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Text.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Swashbuckle.Core.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Buffers.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Memory.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Net.Http.Formatting.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Numerics.Vectors.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Threading.Tasks.Extensions.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.WebHost.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Ubiety.Dns.Core.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\WebActivatorEx.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Zstandard.Net.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Google.Protobuf.pdb
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Google.Protobuf.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.Streams.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\K4os.Hash.xxHash.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\MySql.Data.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Common.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.MySql.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Text.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Buffers.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Memory.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Numerics.Vectors.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Threading.Tasks.Extensions.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Net.Http.Formatting.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.WebHost.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll.config
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\LibrarySystem.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\LibrarySystem.pdb
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csc.exe
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csc.exe.config
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csc.rsp
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csi.exe
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csi.exe.config
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\csi.rsp
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.AppContext.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Console.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Net.Http.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\vbc.exe
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\vbc.exe.config
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\vbc.rsp
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\BouncyCastle.Crypto.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Google.Protobuf.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\K4os.Hash.xxHash.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\MySql.Data.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Common.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Interfaces.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.MySql.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Text.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Swashbuckle.Core.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Buffers.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Memory.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Numerics.Vectors.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Ubiety.Dns.Core.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\WebActivatorEx.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Zstandard.Net.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Google.Protobuf.pdb
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Google.Protobuf.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\K4os.Hash.xxHash.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\MySql.Data.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Common.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.OrmLite.MySql.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\ServiceStack.Text.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Buffers.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Memory.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Numerics.Vectors.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Newtonsoft.Json.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Owin.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pinal\Desktop\Library System\LibrarySystem\LibrarySystem\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Logging.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Tokens.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Jwt.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Owin.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Logging.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.IdentityModel.Tokens.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.Jwt.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RKIT\Advance Training\Library System\LibrarySystem\LibrarySystem\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\RKIT\LibraryManagement\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+D:\RKIT\LibraryManagement\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\RKIT\LibraryManagement\LibrarySystem\bin\LibrarySystem.dll.config
+D:\RKIT\LibraryManagement\LibrarySystem\bin\LibrarySystem.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\LibrarySystem.pdb
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\csc.exe
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\csc.exe.config
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\csc.rsp
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\csi.exe
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\csi.exe.config
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\csi.rsp
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.AppContext.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Collections.Immutable.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Console.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Globalization.Calendars.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.IO.Compression.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.IO.FileSystem.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Net.Http.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Net.Sockets.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.ValueTuple.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Xml.XPath.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\vbc.exe
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\vbc.exe.config
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\vbc.rsp
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\VBCSCompiler.exe
+D:\RKIT\LibraryManagement\LibrarySystem\bin\roslyn\VBCSCompiler.exe.config
+D:\RKIT\LibraryManagement\LibrarySystem\bin\BouncyCastle.Crypto.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Google.Protobuf.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\K4os.Compression.LZ4.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\K4os.Compression.LZ4.Streams.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\K4os.Hash.xxHash.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\LibraryBusinessLogic.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.IdentityModel.Logging.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.IdentityModel.Tokens.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Security.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Security.Jwt.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Web.Infrastructure.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\MySql.Data.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Newtonsoft.Json.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Owin.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.Common.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.Interfaces.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.OrmLite.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.OrmLite.MySql.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.Text.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Swashbuckle.Core.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Buffers.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Memory.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Net.Http.Formatting.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Numerics.Vectors.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Threading.Tasks.Extensions.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Web.Http.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Web.Http.WebHost.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Ubiety.Dns.Core.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\WebActivatorEx.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Zstandard.Net.dll
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Google.Protobuf.pdb
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Google.Protobuf.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\K4os.Compression.LZ4.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\K4os.Compression.LZ4.Streams.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\K4os.Hash.xxHash.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\LibraryBusinessLogic.pdb
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.IdentityModel.Logging.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.IdentityModel.Tokens.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Security.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Security.Jwt.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\MySql.Data.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.Common.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.OrmLite.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.OrmLite.MySql.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\ServiceStack.Text.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Buffers.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Memory.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Numerics.Vectors.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Threading.Tasks.Extensions.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Newtonsoft.Json.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Net.Http.Formatting.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Web.Http.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\System.Web.Http.WebHost.xml
+D:\RKIT\LibraryManagement\LibrarySystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RKIT\LibraryManagement\LibrarySystem\obj\Debug\LibrarySystem.csproj.CopyComplete
+D:\RKIT\LibraryManagement\LibrarySystem\obj\Debug\LibrarySystem.dll
+D:\RKIT\LibraryManagement\LibrarySystem\obj\Debug\LibrarySystem.pdb
